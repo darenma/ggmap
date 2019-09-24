@@ -22,19 +22,23 @@ Then the prework is quite easy. Follow the guide and everything's gonna be fine.
 
 Open the __R console__ on your laptop. Then run these commands.
 
->```
+>
+```
 install.packages(c("ggplot2", "devtools", "dplyr", "stringr"))
 install.packages(c("maps", "mapdata"))
-devtools::install_github("dkahle/ggmap")```
+devtools::install_github("dkahle/ggmap")
+```
 
 Remember to check the libraries in Jupyter Notebook. 
 
->```
+>
+```
 %%R
 library(ggplot2)
 library(ggmap)
 library(maps)
-library(mapdata)```
+library(mapdata)
+```
 
 If this is your first time installing and importing these packages, some alerts will pop up. 
 

@@ -48,3 +48,7 @@ Don't panic. It's just Google shouting for your money. Go to the next step and g
 
 ### 2. Register for Google Cloud
 
+__ggmap__ users are required to register with Google Cloud to api.
+
+At first, go to https://cloud.google.com/maps-platform/. 
+Then, log in with our __personal__ Google account, because the USF accounts are mananged by organization, which don't allow us to create our own projects without authorization.

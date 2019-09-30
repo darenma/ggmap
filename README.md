@@ -51,4 +51,6 @@ Don't panic. It's just Google shouting for your money. Go to the next step and g
 __ggmap__ users are required to register with Google Cloud to api.
 
 At first, go to https://cloud.google.com/maps-platform/. 
-Then, log in with our __personal__ Google account, because the USF accounts are mananged by organization, which don't allow us to create our own projects without authorization.
+Then, log in with our __personal__ Google account, because the USF accounts are mananged by the university, which don't allow us to create our own projects without authorization.
+
+The __free trial__ for Google Cloud lasts one year or 300 dolloars amount. Using the api for visualization only would not exhaust the free amount in 12 months. So... take it easy.
